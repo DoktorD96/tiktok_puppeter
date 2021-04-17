@@ -1,0 +1,15 @@
+2021/01/22-07:22:46.734 19b0 Reusing MANIFEST E:\python_testing\proxy_data_save\Default\IndexedDB\https_wchat.freshchat.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/22-07:22:46.734 19b0 Recovering log #4
+2021/01/22-07:22:46.735 19b0 Reusing old log E:\python_testing\proxy_data_save\Default\IndexedDB\https_wchat.freshchat.com_0.indexeddb.leveldb/000004.log 
+2021/01/22-07:23:12.706 18a8 Level-0 table #8: started
+2021/01/22-07:23:12.735 18a8 Level-0 table #8: 10844 bytes OK
+2021/01/22-07:23:12.757 18a8 Delete type=0 #4
+2021/01/22-07:23:12.757 18a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/22-07:23:12.757 18a8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0f\x003\x001\x008\x005\x001\x002\x002\x007\x001\x006\x005\x005\x009\x008\x004' @ 200 : 1
+2021/01/22-07:23:12.757 18a8 Compacting 1@1 + 1@2 files
+2021/01/22-07:23:12.786 18a8 Generated table #9@1: 28 keys, 2146 bytes
+2021/01/22-07:23:12.786 18a8 Compacted 1@1 + 1@2 files => 2146 bytes
+2021/01/22-07:23:12.834 18a8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/22-07:23:12.835 18a8 Delete type=2 #5
+2021/01/22-07:23:12.835 18a8 Delete type=2 #8
+2021/01/22-07:23:12.836 18a8 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0f\x003\x001\x008\x005\x001\x002\x002\x007\x001\x006\x005\x005\x009\x008\x004' @ 200 : 1 .. (end); will stop at (end)

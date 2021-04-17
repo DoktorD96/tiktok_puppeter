@@ -1,0 +1,40 @@
+{
+   "checksum": "15f3f243730ef3f4823c9243ebcbc9d9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13255770754397707",
+            "guid": "7fc983e2-67c2-4e51-8bff-aa44acbf463f",
+            "id": "6",
+            "name": "Is it possible to run Google Chrome in headless mode with extensions? - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/45372066/is-it-possible-to-run-google-chrome-in-headless-mode-with-extensions"
+         } ],
+         "date_added": "13255770103080042",
+         "date_modified": "13255770754397707",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13255770103080058",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13255770103080059",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

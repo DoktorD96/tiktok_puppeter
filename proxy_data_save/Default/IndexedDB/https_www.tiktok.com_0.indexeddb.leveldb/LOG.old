@@ -1,0 +1,15 @@
+2021/02/02-23:19:50.223 df8c Reusing MANIFEST E:\python_testing\proxy_data_save\Default\IndexedDB\https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/02-23:19:50.224 df8c Recovering log #83
+2021/02/02-23:19:50.224 df8c Reusing old log E:\python_testing\proxy_data_save\Default\IndexedDB\https_www.tiktok.com_0.indexeddb.leveldb/000083.log 
+2021/02/02-23:21:35.681 da80 Level-0 table #88: started
+2021/02/02-23:21:35.749 da80 Level-0 table #88: 4882 bytes OK
+2021/02/02-23:21:35.771 da80 Delete type=0 #83
+2021/02/02-23:21:35.771 da80 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/02-23:21:35.771 da80 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00`\x02JMvwB\x00\x01f\x00c\x00d\x00n\x00-\x00f\x00o\x00n\x00t\x00-\x00f\x00i\x00l\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x001\x006\x00.\x00t\x00i\x00k\x00t\x00o\x00k\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00m\x00u\x00s\x00i\x00c\x00a\x00l\x00/\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00/\x00m\x00t\x00a\x00c\x00t\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00f\x00o\x00n\x00t\x00s\x00/\x00p\x00r\x00o\x00x\x00i\x00m\x00a\x00-\x00n\x00o\x00v\x00a\x00-\x00r\x00e\x00g\x00u\x00l\x00a\x00r\x00.\x00w\x00o\x00f\x00f\x002' @ 4485 : 1
+2021/02/02-23:21:35.771 da80 Compacting 1@1 + 1@2 files
+2021/02/02-23:21:35.804 da80 Generated table #89@1: 74 keys, 4730 bytes
+2021/02/02-23:21:35.804 da80 Compacted 1@1 + 1@2 files => 4730 bytes
+2021/02/02-23:21:35.826 da80 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/02-23:21:35.826 da80 Delete type=2 #85
+2021/02/02-23:21:35.826 da80 Delete type=2 #88
+2021/02/02-23:21:35.827 da80 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00`\x02JMvwB\x00\x01f\x00c\x00d\x00n\x00-\x00f\x00o\x00n\x00t\x00-\x00f\x00i\x00l\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x001\x006\x00.\x00t\x00i\x00k\x00t\x00o\x00k\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00m\x00u\x00s\x00i\x00c\x00a\x00l\x00/\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00/\x00m\x00t\x00a\x00c\x00t\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00f\x00o\x00n\x00t\x00s\x00/\x00p\x00r\x00o\x00x\x00i\x00m\x00a\x00-\x00n\x00o\x00v\x00a\x00-\x00r\x00e\x00g\x00u\x00l\x00a\x00r\x00.\x00w\x00o\x00f\x00f\x002' @ 4485 : 1 .. (end); will stop at (end)
